@@ -1,0 +1,20 @@
+@font-face{font-family:"dripicons-v2";src:url("../fonts/dripicons-v2.eot");src:url("../fonts/dripicons-v2.eot?#iefix") format("embedded-opentype"),url("../fonts/dripicons-v2.woff") format("woff"),url("../fonts/dripicons-v2.ttf") format("truetype"),url("../fonts/dripicons-v2.svg#dripicons-v2") format("svg");font-weight:normal;font-style:normal}
+[data-icon]:before{font-family:"dripicons-v2" !important;content:attr(data-icon);font-style:normal !important;font-weight:normal !important;font-variant:normal !important;text-transform:none !important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+[class^="dripicons-"]:before,[class*=" dripicons-"]:before{font-family:"dripicons-v2" !important;font-style:normal !important;font-weight:normal !important;font-variant:normal !important;text-transform:none !important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.dripicons{position:relative;top:2px}
+
+
+
+@font-face {font-family:'Gotham-Book';src:url('../fonts/Gotham-Book.otf');src:url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),url('../fonts/Gotham-Book.woff2') format('woff2'),url('../fonts/Gotham-Book.woff') format('woff'),url('../fonts/Gotham-Book.ttf') format('truetype'),url('../fonts/Gotham-Book.svg#webfont') format('svg');}
+
+.single-content .gallery-login{text-align: center;font-size: 13px;line-height: 14px;}
+.single-content .gallery-login span{background: #eaeaea;padding:5px 18px;border-radius: 2px;display: inline-block;margin-bottom: 5px;}
+.single-content .gallery-login a{display: inline-block;margin-left: 10px;text-decoration: none;color:#ff5f33;}
+.single-content .gallery{margin-bottom: 20px;}
+.single-content .gallery .gallery-item{float: left;width: 25%;padding:1%;}
+.single-content .gallery.gallery-column-5 .gallery-item{width: 20%;}
+.single-content .gallery.gallery-column-4 .gallery-item{width: 25%;}
+.single-content .gallery.gallery-column-3 .gallery-item{width: 33.3333%;}
+.single-content .gallery.gallery-column-2 .gallery-item{width: 50%;}
+.single-content .gallery-item img{border:none !important;border-radius: 2px;box-shadow: 0px 0px 10px rgba(0,0,0,.18);}
+.single-content .gallery-blur-item img {filter: blur(2px);}
